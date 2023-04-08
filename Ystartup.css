@@ -13,6 +13,10 @@ h1{
 
 
  
+.landing-page{
+    margin-left: 10%;
+}
+
 .map{
     position: absolute;
     top: 0;
@@ -77,6 +81,8 @@ h1{
 
   /*Container 2 */
 .How-Who{
+    width: 80%;
+    margin: 0 auto;
     background-color: #292519;
     color: #e1e1e1;
     font-size: 22px;
@@ -215,6 +221,8 @@ h1{
 
   /* Container 5 */
 .Branch-StartUp{
+    width: 80%;
+    margin: 0 auto;
     background-color: #292519;
     color: #e1e1e1;
     font-size: 22px;
@@ -310,6 +318,12 @@ h1{
 }
 
   /* Footer Container  */ 
+
+#footer-container{
+    width: 80%;
+    margin: 0 auto;
+} 
+
 .footer-items{
     align-items: center;
     background-color: #131313;
